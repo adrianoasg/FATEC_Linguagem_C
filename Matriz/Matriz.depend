@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516285380 source:c:\users\adria\desktop\git\fatec_linguagem_c\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+
