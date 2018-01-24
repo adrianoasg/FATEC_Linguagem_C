@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516802499 source:e:\fatec\git\recursividade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
