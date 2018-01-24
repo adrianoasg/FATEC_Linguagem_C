@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1382608905 source:/Users/marcosnava/projetosCB/ED_008_ListaLigada/main.c
+	<stdio.h>
+
+1516804337 source:e:\fatec\git\fatec_linguagem_c\ed_008_listaligada\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383819117 source:/Users/marcosnava/projetosCB/ED_009_ListaDuplamenteLigada/main.c
+	<stdio.h>
+
+1498136953 source:e:\fatec\3 ° semestre\estruturas de dados\codeblocks\solução\solução lista duplamente ligada\ed_009_listaduplamenteligada\main.c
+	<stdio.h>
+
+1516804393 source:e:\fatec\git\fatec_linguagem_c\ed_009_listaduplamenteligada\main.c
+	<stdio.h>
+	<stdlib.h>
+

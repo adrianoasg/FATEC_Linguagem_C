@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1396531180 source:/Users/marcosnava/projetosCB/ED_006_Lista/main.c
+	<stdio.h>
+
+1471991162 source:c:\users\adriano\desktop\fatec\3 ° semestre\estruturas de dados\codeblocks\solução\lista - solução\ed_006_lista\main.c
+	<stdio.h>
+
+1516804134 source:e:\fatec\git\fatec_linguagem_c\ed_006_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+

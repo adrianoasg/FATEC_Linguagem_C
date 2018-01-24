@@ -1,0 +1,617 @@
+# depslib dependency file v1.0
+1497565529 source:c:\users\adria\desktop\projeto bd em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1497563526 c:\users\adria\desktop\projeto bd em c\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497563786 c:\users\adria\desktop\projeto bd em c\varglobais.h
+
+1497563217 c:\users\adria\desktop\projeto bd em c\menu.h
+
+1497565434 c:\users\adria\desktop\projeto bd em c\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497563024 c:\users\adria\desktop\projeto bd em c\lista_d.h
+
+1497563104 c:\users\adria\desktop\projeto bd em c\lista_dl.h
+
+1497565434 c:\users\adria\desktop\projeto bd em c\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497565072 c:\users\adria\desktop\projeto bd em c\arv_b.h
+
+1497565434 c:\users\adria\desktop\projeto bd em c\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1497568676 source:c:\users\adria\desktop\projeto bd em c 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1497563526 c:\users\adria\desktop\projeto bd em c 2\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497568355 c:\users\adria\desktop\projeto bd em c 2\varglobais.h
+
+1497563217 c:\users\adria\desktop\projeto bd em c 2\menu.h
+
+1497568703 c:\users\adria\desktop\projeto bd em c 2\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497563024 c:\users\adria\desktop\projeto bd em c 2\lista_d.h
+
+1497563104 c:\users\adria\desktop\projeto bd em c 2\lista_dl.h
+
+1497568087 c:\users\adria\desktop\projeto bd em c 2\arv_b.h
+
+1497565434 c:\users\adria\desktop\projeto bd em c 2\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497568087 c:\users\adria\desktop\projeto bd em c 2\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1497583249 source:c:\users\adria\desktop\projeto bd em c 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1497569062 c:\users\adria\desktop\projeto bd em c 3\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497568355 c:\users\adria\desktop\projeto bd em c 3\varglobais.h
+
+1497563217 c:\users\adria\desktop\projeto bd em c 3\menu.h
+
+1497568703 c:\users\adria\desktop\projeto bd em c 3\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497563024 c:\users\adria\desktop\projeto bd em c 3\lista_d.h
+
+1497582651 c:\users\adria\desktop\projeto bd em c 3\lista_dl.h
+
+1497568087 c:\users\adria\desktop\projeto bd em c 3\arv_b.h
+
+1497585249 c:\users\adria\desktop\projeto bd em c 3\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497568087 c:\users\adria\desktop\projeto bd em c 3\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1497620440 source:c:\users\adria\desktop\projeto bd em c 31\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1497569062 c:\users\adria\desktop\projeto bd em c 31\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497568355 c:\users\adria\desktop\projeto bd em c 31\varglobais.h
+
+1497563217 c:\users\adria\desktop\projeto bd em c 31\menu.h
+
+1497620250 c:\users\adria\desktop\projeto bd em c 31\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497620265 c:\users\adria\desktop\projeto bd em c 31\lista_d.h
+
+1497618350 c:\users\adria\desktop\projeto bd em c 31\lista_dl.h
+
+1497568087 c:\users\adria\desktop\projeto bd em c 31\arv_b.h
+
+1497620122 c:\users\adria\desktop\projeto bd em c 31\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497617140 c:\users\adria\desktop\projeto bd em c 31\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1497800223 source:c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1497796992 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497796982 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\varglobais.h
+
+1497563217 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\menu.h
+
+1497798926 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497621908 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\lista_d.h
+
+1497618350 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\lista_dl.h
+
+1497622103 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\arv_b.h
+
+1497797943 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497625507 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1497800288 source:c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1497796992 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497796982 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\varglobais.h
+
+1497563217 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\menu.h
+
+1497798926 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497621908 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_d.h
+
+1497618350 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_dl.h
+
+1497622103 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\arv_b.h
+
+1498138260 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497625507 c:\users\adria\desktop\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1498161297 source:c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1498161351 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1497796984 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\varglobais.h
+
+1497563218 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\menu.h
+
+1498174374 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497621910 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\lista_d.h
+
+1497618352 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\lista_dl.h
+
+1497622104 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\arv_b.h
+
+1498174994 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1498174144 c:\users\gabri\desktop\projeto bd em c verifica cpf cadastrado\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1498654006 source:e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1498653825 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1498653381 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\varglobais.h
+
+1497563218 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\menu.h
+
+1498174374 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497621910 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_d.h
+
+1497618352 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_dl.h
+
+1497622104 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\arv_b.h
+
+1498654045 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1498654135 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\projeto bd em c verifica cpf cadastrado\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1498735363 source:c:\users\adria\desktop\projeto bd em c final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1498653825 c:\users\adria\desktop\projeto bd em c final\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1498653381 c:\users\adria\desktop\projeto bd em c final\varglobais.h
+
+1497563218 c:\users\adria\desktop\projeto bd em c final\menu.h
+
+1498734992 c:\users\adria\desktop\projeto bd em c final\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497621910 c:\users\adria\desktop\projeto bd em c final\lista_d.h
+
+1497618352 c:\users\adria\desktop\projeto bd em c final\lista_dl.h
+
+1497622104 c:\users\adria\desktop\projeto bd em c final\arv_b.h
+
+1498734916 c:\users\adria\desktop\projeto bd em c final\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1498654135 c:\users\adria\desktop\projeto bd em c final\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1498735363 source:e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1498653825 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1498653381 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\varglobais.h
+
+1497563218 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\menu.h
+
+1498734992 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497621910 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\lista_d.h
+
+1497618352 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\lista_dl.h
+
+1497622104 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\arv_b.h
+
+1498734916 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1498654135 e:\fatec\3 ° semestre\estruturas de dados\trabalho estrutura final\adriano e alisson - entregue\projeto bd em c\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
+1498738963 source:e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"menu.h"
+	"varGlobais.h"
+	"lista_d.c"
+	"lista_d.h"
+	"lista_dl.c"
+	"lista_dl.h"
+	"arv_b.c"
+	"arv_b.h"
+
+1498657425 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\menu.c
+	<stdio.h>
+	"varGlobais.h"
+	"menu.h"
+
+1498656981 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\varglobais.h
+
+1497566818 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\menu.h
+
+1498738592 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\lista_d.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1497625510 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\lista_d.h
+
+1497621952 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\lista_dl.h
+
+1497625704 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\arv_b.h
+
+1498738516 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\lista_dl.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+	"arv_b.h"
+
+1516804784 e:\fatec\git\fatec_linguagem_c\projeto - estrutura de dados\arv_b.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv_b.h"
+	"varGlobais.h"
+	"lista_d.h"
+	"lista_dl.h"
+
